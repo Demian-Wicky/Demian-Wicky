@@ -10,7 +10,7 @@
 
 **Languages and Tools:**  
 
-<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"> &zwnj; &zwnj; <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/langfr-2880px-Ruby_On_Rails_Logo.svg.png"> &zwnj; &zwnj; <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1920px-HTML5_logo_and_wordmark.svg.png"> &zwnj; &zwnj; <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-1024px-CSS3_logo_and_wordmark.svg.png">
+<img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/ruby.svg"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/rails.png"> &zwnj; &zwnj; <img height="30" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/html.png"> &zwnj; &zwnj; <img height="30" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/css.png">
 
 
 
