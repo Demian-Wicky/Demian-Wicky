@@ -1,7 +1,7 @@
 ### Hi there, I'm Demian! 👋
 
 
-🌱 &zwnj; &zwnj; I’m currently learning Ruby <br> at <img height="45" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/THP.png">
+🌱 &zwnj; &zwnj; I’m currently learning Ruby at <a href="https://www.thehackingproject.org/">The Hacking Project</a>
 <br />
 <br />
 
