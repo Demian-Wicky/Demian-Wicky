@@ -1,7 +1,7 @@
 ### Hi there, I'm Demian! 👋
 
 
-🌱 &zwnj; &zwnj; I’m currently learning Ruby
+🌱 &zwnj; &zwnj; I’m currently learning Ruby <br> at <img height="45" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/THP.png">
 <br />
 <br />
 
