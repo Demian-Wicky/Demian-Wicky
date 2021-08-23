@@ -2,6 +2,7 @@
 
 
 🌱 &zwnj; &zwnj; I’m currently learning Ruby at <a href="https://www.thehackingproject.org/">The Hacking Project</a>
+💡 &zwnj; &zwnj; I want to become a full-stack developer
 <br />
 <br />
 
