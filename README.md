@@ -13,7 +13,7 @@
 <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/ruby.svg"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/rails.png"> &zwnj; &zwnj; <img height="30" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/html.png"> &zwnj; &zwnj; <img height="30" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/css.png"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/macbook.png">
 
 ## Social 📱
-You can find me on the following social media platforms or send me an email:
+You can find me on the following social media platforms: <!-- or send me an email:-->
 * 👔 &zwnj; &zwnj; [LinkedIn](https://www.linkedin.com/in/demian-wicky)
 * 📷 &zwnj; &zwnj; [Instagram](https://www.instagram.com/design_codex)
 <!--
