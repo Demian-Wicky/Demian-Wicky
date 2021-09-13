@@ -1,4 +1,4 @@
-### Hi there, I'm Demian! 👋
+# Hi, I'm Demian 👋
 
 🌱 &zwnj; &zwnj; I’m currently learning Ruby at <a href="https://www.thehackingproject.org/">The Hacking Project 🚀</a>
 <br>
