@@ -1,8 +1,8 @@
 # Hi, I'm Demian 👋
 
-🌱 &zwnj; &zwnj; I’m currently learning Ruby on Rails and Javascript at <a href="https://www.thehackingproject.org/">The Hacking Project 🚀</a>
+🌱 &zwnj; &zwnj; I’m currently learning Swift at <a href="https://openclassrooms.com/fr//">TOpenClassrooms 🚀</a>
 <br>
-☀ &zwnj; &zwnj; I want to become a full-stack developer
+☀ &zwnj; &zwnj; I want to become an iOS developer ! 📱
 <br />
 <br />
 
