@@ -12,7 +12,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demian-Wicky&layout=compact&theme=aura_dark&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aDemian-Wicky)](https://github.com/Demian-Wicky/github-readme-stats" />
 
 <!--
 https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png
