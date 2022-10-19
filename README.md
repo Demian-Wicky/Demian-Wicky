@@ -1,6 +1,6 @@
 # Hi, I'm Demian 👋
 
-🌱 &zwnj; &zwnj; I’m currently learning Swift at <a href="https://openclassrooms.com/fr/">OpenClassrooms 🚀</a>
+🌱 &zwnj; &zwnj; I’m currently learning Swift at <a href="[https://openclassrooms.com/fr/](https://openclassrooms.com/fr/paths/501-developpeur-dapplication-ios)">OpenClassrooms 🚀</a>
 <br>
 ☀ &zwnj; &zwnj; I want to become an iOS developer ! 📱
 <br />
