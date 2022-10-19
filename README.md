@@ -11,7 +11,8 @@
 <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/macbook.png"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demian-Wicky&layout=compact&theme=aura_dark&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demian-Wicky&theme=aura_dark&show_icons=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
 
 <!--
 https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png
