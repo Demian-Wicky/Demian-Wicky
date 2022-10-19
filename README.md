@@ -8,7 +8,7 @@
 
 **Languages and Tools:**
 
-<img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/macbook.png" &zwnj; &zwnj; img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png">
+<img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/macbook.png"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png">
 
 <!--
 https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png
