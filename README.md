@@ -10,7 +10,13 @@
 
 <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/macbook.png"> &zwnj; &zwnj; <img height="25" src="https://github.com/Demian-Wicky/Demian-Wicky/blob/master/img/swift.png">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demian-Wicky&layout=compact&theme=aura_dark&show_icons=true" />
+<br />
+
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&username=Demian-Wicky" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue&hide_border=true&username=Demian-Wicky" height="150" alt="languages graph"  />
+</div>
+
 
 
 <!--
